@@ -1,4 +1,3 @@
-````html
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,100:0066FF&text=Fedi%20Gabsi&fontColor=ffffff&fontSize=65&fontAlignY=40&animation=fadeIn"/>
@@ -15,33 +14,11 @@
 
 ---
 
-# 🚀 SYSTEM OVERVIEW
-
+# 🚀 EDUCATION
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1c-8f71-b4d0f4e29e39.gif"/>
 
-```yaml
-NAME: Fedi Gabsi
-
-EDUCATION:
   - Master's Student in Embedded Systems
   - Bachelor's in Electrical Engineering
-
-SPECIALIZATION:
-  - Embedded Systems
-  - Robotics
-  - IoT Development
-  - Automation
-  - PCB Design
-
-LANGUAGES:
-  - C++
-  - MicroPython
-
-PLATFORMS:
-  - ESP32
-  - Arduino Uno
-  - Raspberry Pi
-````
 
 <br clear="right"/>
 
